@@ -82,7 +82,7 @@ The dataset includes yellow taxi trip records for each month in 2023, published 
 
 ---
 
-## 💡 Key Insights _(To Be Filled Post-Execution)_
+## 💡 Key Insights 
 
 - 📌 Total trips processed: _[x million]_
 - 🚦 Peak hours: _[e.g., 6 PM – 8 PM on weekdays]_
