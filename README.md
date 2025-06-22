@@ -1,4 +1,4 @@
-# 🗽 EDA on NYC Taxi Records (2023)
+# 🗽 EDA on NYC Taxi Records 
 
 This repository contains a Jupyter Notebook that performs **Exploratory Data Analysis (EDA)** on the 2023 Yellow Taxi Trip Data from New York City. The goal is to explore data patterns, clean inconsistencies, and derive business insights to optimize taxi operations in NYC.
 
